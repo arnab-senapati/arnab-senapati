@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/dea60551-3b3c-4375-984c-5c332887e830" alt="Coding" width="400">
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="400">
     </td>
   </tr>
 </table>

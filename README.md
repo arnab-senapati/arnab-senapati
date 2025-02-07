@@ -4,7 +4,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arnab-senapati&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-senapati" />
 </p>
-
 <table>
   <tr>
     <td>

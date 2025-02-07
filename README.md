@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="400">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9oY2V3ZTg4dHBta3Q2aGdxbHJtem82dWl6Z3dmZ3d6NjV4OHpsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Coding" width="400">
     </td>
   </tr>
 </table>

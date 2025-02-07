@@ -20,7 +20,9 @@
   </tr>
 </table>
 
-<h3 align="left">Connect with me</h3>
+<table>
+  <tr>
+     <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/arnab-senapati" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-senapati" height="30" width="40" />
@@ -35,9 +37,6 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
   </a> 
@@ -64,6 +63,8 @@
   </a> 
 </p>
 
+  </tr>
+</table>
 <h3 align="left">GitHub Stats</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-senapati&show_icons=true&locale=en&layout=compact" />

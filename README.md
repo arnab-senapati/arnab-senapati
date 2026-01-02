@@ -67,20 +67,31 @@
 
   </tr>
 </table>
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-senapati&show_icons=true&locale=en&layout=compact" />
+ <h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-senapati&layout=compact&theme=dark" 
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnab-senapati&show_icons=true&locale=en" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=arnab-senapati&show_icons=true&theme=dark" 
+    height="160"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-senapati&" />
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-senapati&theme=dark" 
+    height="160"
+    alt="GitHub Streak"
+  />
 </p>
 
-
-eta ke thik kore de
 
 

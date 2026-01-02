@@ -70,15 +70,25 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=arnab-senapati&show_icons=true&theme=dark&cache_seconds=86400"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-senapati&layout=compact&theme=dark" 
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=arnab-senapati&show_icons=true&theme=dark" 
+    height="160"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=arnab-senapati&theme=dark&hide_border=true"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-senapati&theme=dark" 
+    height="160"
     alt="GitHub Streak"
   />
 </p>
